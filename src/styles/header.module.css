@@ -1,0 +1,20 @@
+
+.header {
+    background-color:#8863B2;
+    text-align: center;
+    color:#000000;
+    flex-direction: row;
+    justify-content: space-evenly;
+    display:flex;
+    height:40px;
+    padding:5px;
+
+}
+.Icon {
+color: black;
+font-size: 36px;
+
+}
+.Icon:hover{
+    color:goldenrod;
+}
