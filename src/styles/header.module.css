@@ -1,8 +1,8 @@
 
 .header {
-    background-color:#8863B2;
+    background-color:#463B35;
     text-align: center;
-    color:#000000;
+    color:#5C6D5E;
     flex-direction: row;
     justify-content: space-evenly;
     display:flex;
@@ -16,5 +16,5 @@ font-size: 36px;
 
 }
 .Icon:hover{
-    color:goldenrod;
+    color:#118c4f;
 }
