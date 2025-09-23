@@ -3,7 +3,7 @@ import styles from "../styles/blurb.module.css";
 function Blurb() {
     return (
         <div className={styles.Blurb}>
-            <div>👋🏾 Hey, I’m Eric Porter.</div>
+            <div>Hey, I’m Eric Porter.</div>
             <br />
             <div>
                 Salesforce Certified Administrator • Systems Thinker • Data &
